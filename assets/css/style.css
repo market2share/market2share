@@ -22,7 +22,6 @@
 	8. video-area
 	9. counter
 	10. footer
-
 -------------------------------------------------
 */
 /*-------------   Color Variable  --------------*/
@@ -3175,7 +3174,8 @@ hr {
 
 /* line 163, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_headerMenu.scss */
 .mobile_menu .slicknav_btn {
-  top: -43px;
+  top: -60px;
+  left: -18px;
 }
 
 /* line 166, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_headerMenu.scss */
